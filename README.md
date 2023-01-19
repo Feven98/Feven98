@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am software engineer who is interested to be full stack developer.
+
 <!--
 **Feven98/Feven98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
