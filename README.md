@@ -169,7 +169,9 @@ I am a software engineer with a BS in electrical and electronics technology and 
 </p>
 
 Learn more at:
+
 Email: rutemikey1.@gmail.com
+
 Linkedin: https://www.linkedin.com/in/feven-seifu/
 <!--
 **Feven98/Feven98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
