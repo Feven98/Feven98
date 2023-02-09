@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am software engineer who is interested to be full stack developer.
+I am a software engineer with a BS in electrical and electronics technology and an experienced full-stack developer with different languages including JavaScript technologies(MERN Stack) and Django. I enjoy working with a team and troubleshooting and resolving technical issues. I am also eager to learn new things and challenge myself. 
+
 
 <!--
 **Feven98/Feven98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
