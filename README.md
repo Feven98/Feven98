@@ -167,6 +167,10 @@ I am a software engineer with a BS in electrical and electronics technology and 
       style="max-width: auto; height: 23px; "
   /></a>
 </p>
+
+Learn more at:
+Email: rutemikey1.@gmail.com
+Linkedin: https://www.linkedin.com/in/feven-seifu/
 <!--
 **Feven98/Feven98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -181,6 +185,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Learn more at...
 
-https://www.linkedin.com/in/feven-seifu/
