@@ -170,7 +170,7 @@ I am a software engineer with a BS in electrical and electronics technology and 
 
 Learn more at:
 
-Email: rutemikey1.@gmail.com
+Email: rutemikey1@gmail.com
 
 Linkedin: https://www.linkedin.com/in/feven-seifu/
 <!--
