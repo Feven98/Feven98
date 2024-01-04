@@ -11,11 +11,11 @@ I am a software engineer with a BS in electrical and electronics technology, pur
     rel="noopener noreferrer"
     href="https://camo.githubusercontent.com/0734b6e3e51fd74ee64632164fe978eeaa0fdc4c3bc8d05b7d47e03c4d8a3203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"
     >
-    <img src="https://camo.githubusercontent.com/0734b6e3e51fd74ee64632164fe978eeaa0fdc4c3bc8d05b7d47e03c4d8a3203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"
+<!--     <img src="https://camo.githubusercontent.com/0734b6e3e51fd74ee64632164fe978eeaa0fdc4c3bc8d05b7d47e03c4d8a3203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"
       alt="Javascript"
       data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black"
       style="max-width: auto; height: 23px; "
-  /></a>
+  /></a> -->
   <a
     target="_blank"
     rel="noopener noreferrer"
