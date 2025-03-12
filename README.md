@@ -9,13 +9,29 @@ I am a software engineer with a BS in electrical and electronics technology, pur
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/0734b6e3e51fd74ee64632164fe978eeaa0fdc4c3bc8d05b7d47e03c4d8a3203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"
-    >
-    <img src="https://camo.githubusercontent.com/0734b6e3e51fd74ee64632164fe978eeaa0fdc4c3bc8d05b7d47e03c4d8a3203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"
-      alt="Javascript"
-      data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black"
-      style="max-width: auto; height: 23px; "
-  /></a>
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+>
+    <img
+        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"
+        alt="JavaScript"
+        style="max-width: auto; height: 23px;"
+    />
+</a>
+<a
+    target="_blank"
+    rel="noopener noreferrer"
+    href="https://www.mysql.com"
+>
+    <img
+        src="https://img.shields.io/badge/MySQL-F7DF1E?style=flat&logo=MySQL&logoColor=black"
+        alt="MySQL"
+        style="height: 23px; max-width: auto;"
+    />
+</a>
+<a href="https://www.mysql.com" class="mysql-badge" target="_blank" rel="noopener noreferrer">
+    MySQL
+</a>
+
 <a
     target="_blank"
     rel="noopener noreferrer"
@@ -29,27 +45,19 @@ I am a software engineer with a BS in electrical and electronics technology, pur
 </a>
 
 
-  <a
+ <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/e10320df09d2d95e5a1cc8f0ce1b52538db9d62eff2725f3a594995babae60c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"
-    ><img
-      src="https://camo.githubusercontent.com/e10320df09d2d95e5a1cc8f0ce1b52538db9d62eff2725f3a594995babae60c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642"
-      alt="React"
-      data-canonical-src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB"
-      style="max-width: auto; height: 23px; "
-  /></a>
+    href="https://reactjs.org"
+>
+    <img
+        src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"
+        alt="React"
+        style="max-width: auto; height: 23px;"
+    />
+</a>
 
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"
-    ><img
-      src="https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"
-      alt="Bootstrap"
-      data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-      style="height: 23px; max-width: auto"
-  /></a>
+
 
 </p>  
 
@@ -57,23 +65,16 @@ I am a software engineer with a BS in electrical and electronics technology, pur
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/e94d5356dbffad915213783a815cfefb9fdf394b5e2f442732893fe0a6dccf26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666c6174266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"
-    ><img
-      src="https://camo.githubusercontent.com/e94d5356dbffad915213783a815cfefb9fdf394b5e2f442732893fe0a6dccf26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666c6174266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"
-      alt="Node-js"
-      data-canonical-src="https://img.shields.io/badge/Node.js-43853D?style=flat&amp;logo=node.js&amp;logoColor=white"
-      style="max-width: auto; height: 23px; "
-  /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/3247036052834e4ce99fc7ee13aa6b5518be941338df7982a952972c5647a5ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c61736b2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d466c61736b266c6f676f436f6c6f723d666666666666"
-    ><img
-      src="https://camo.githubusercontent.com/3247036052834e4ce99fc7ee13aa6b5518be941338df7982a952972c5647a5ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c61736b2d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d466c61736b266c6f676f436f6c6f723d666666666666"
-      alt="FLask"
-      data-canonical-src="https://img.shields.io/badge/FLask-F7DF1E?style=flat&amp;logo=flask&amp;logoColor=black"
-      style="max-width: auto; height: 23px; "
-  /></a>
+    href="https://nodejs.org"
+>
+    <img
+        src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"
+        alt="Node.js"
+        style="max-width: auto; height: 23px;"
+    />
+</a>
+
+
   <a
     target="_blank"
     rel="noopener noreferrer"
@@ -89,26 +90,19 @@ I am a software engineer with a BS in electrical and electronics technology, pur
 </p>
 
 <p>
-  <a
+ 
+ <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"
-    ><img
-      src="https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"
-      alt="postgres"
-      data-canonical-src="https://img.shields.io/badge/postgres-F7DF1E?style=flat&amp;logo=postgres&amp;logoColor=black"
-      style="height:20px; max-width: auto; height: 23px; "
-  /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/6ede6cf733e385080214589407d1cd6a88b3633990241eee703bbbef6b2c8051/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d666666666666"
-    ><img
-      src="https://camo.githubusercontent.com/6ede6cf733e385080214589407d1cd6a88b3633990241eee703bbbef6b2c8051/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d666666666666"
-      alt="MySQL"
-      data-canonical-src="https://img.shields.io/badge/MySQL-F7DF1E?style=flat&amp;logo=MySQL&amp;logoColor=black"
-      style="height:20px; max-width: auto; height: 23px; "
-  /></a>
+    href="https://www.mysql.com"
+>
+    <img
+        src="https://img.shields.io/badge/MySQL-F7DF1E?style=flat&logo=MySQL&logoColor=black"
+        alt="MySQL"
+        style="height:20px; max-width: auto; height: 23px;"
+    />
+</a>
+
  <a
     target="_blank"
     rel="noopener noreferrer"
@@ -121,6 +115,7 @@ I am a software engineer with a BS in electrical and electronics technology, pur
     />
 </a>
 
+
 </p>
   
 <p>
@@ -128,12 +123,15 @@ I am a software engineer with a BS in electrical and electronics technology, pur
     target="_blank"
     rel="noopener noreferrer"
     href="https://camo.githubusercontent.com/983c3c179ded756667ba6a2411c1a66b0dcd5b8e2a308a379e784caf2fdd477e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c6174266c6f676f3d6865726f6b75"
-    ><img
-      src="https://camo.githubusercontent.com/983c3c179ded756667ba6a2411c1a66b0dcd5b8e2a308a379e784caf2fdd477e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c6174266c6f676f3d6865726f6b75"
-      alt="Heroku"
-      data-canonical-src="https://img.shields.io/badge/-Heroku-430098?style=flat&amp;logo=heroku"
-      style="max-width: auto; height: 23px; "
-  /></a>
+>
+    <img
+        src="https://camo.githubusercontent.com/983c3c179ded756667ba6a2411c1a66b0dcd5b8e2a308a379e784caf2fdd477e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c6174266c6f676f3d6865726f6b75"
+        alt="Heroku"
+        data-canonical-src="https://img.shields.io/badge/-Heroku-430098?style=flat&amp;logo=heroku"
+        style="max-width: auto; height: 23px;"
+    />
+</a>
+
   <a
     target="_blank"
     rel="noopener noreferrer"
@@ -146,6 +144,7 @@ I am a software engineer with a BS in electrical and electronics technology, pur
     />
 </a>
 
+
  <a
     target="_blank"
     rel="noopener noreferrer"
@@ -157,6 +156,7 @@ I am a software engineer with a BS in electrical and electronics technology, pur
         style="max-width: auto; height: 23px;"
     />
 </a>
+
 </p>
 
 Learn more at:
