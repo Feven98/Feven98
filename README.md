@@ -17,7 +17,7 @@ I am a software engineer with a BS in electrical and electronics technology, pur
   <a target="_blank" rel="noopener noreferrer" href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=python&logoColor=black" alt="Python" style="max-width: auto; height: 23px;"/>
   </a>
-  
+  <p>
   <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org">
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" style="max-width: auto; height: 23px;"/>
   </a>
@@ -29,7 +29,8 @@ I am a software engineer with a BS in electrical and electronics technology, pur
   <a target="_blank" rel="noopener noreferrer" href="https://www.djangoproject.com">
     <img src="https://img.shields.io/badge/DJango-F7DF1E?style=flat&logo=django&logoColor=black" alt="Django" style="max-width: auto; height: 23px;"/>
   </a>
-
+</p>
+<p>
   <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com">
     <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" style="height: 23px; max-width: auto;"/>
   </a>
@@ -46,6 +47,7 @@ I am a software engineer with a BS in electrical and electronics technology, pur
   <a target="_blank" rel="noopener noreferrer" href="https://github.com">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" style="max-width: auto; height: 23px;"/>
   </a>
+  </p>
 </p>
 
 
