@@ -28,9 +28,9 @@ I am a software engineer with a BS in electrical and electronics technology, pur
         style="height: 23px; max-width: auto;"
     />
 </a>
-<a href="https://www.mysql.com" class="mysql-badge" target="_blank" rel="noopener noreferrer">
+<!-- <a href="https://www.mysql.com" class="mysql-badge" target="_blank" rel="noopener noreferrer">
     MySQL
-</a>
+</a> -->
 
 <a
     target="_blank"
