@@ -59,7 +59,7 @@ I am a software engineer with a BS in electrical and electronics technology, pur
 
 
 
-</p>  
+ 
 
 <p>
   <a
