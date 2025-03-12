@@ -160,16 +160,17 @@ I am a software engineer with a BS in electrical and electronics technology, pur
       data-canonical-src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&amp;logo=netlify&amp;logoColor=white"
       style="max-width: auto; height: 23px; "
   /></a>
-  <a
+ <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/fb6586a64a7bf22f6595bc55e458aa6e1b43e1a2cf98a79ce090bfedc32cd737/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f3d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"
-    ><img
-      src="https://camo.githubusercontent.com/fb6586a64a7bf22f6595bc55e458aa6e1b43e1a2cf98a79ce090bfedc32cd737/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f3d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"
-      alt="Github"
-      data-canonical-src="https://img.shields.io/badge/GitHub-100000?=flat&amp;logo=github&amp;logoColor=white"
-      style="max-width: auto; height: 23px; "
-  /></a>
+    href="https://github.com"
+>
+    <img
+        src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"
+        alt="GitHub"
+        style="max-width: auto; height: 23px;"
+    />
+</a>
 </p>
 
 Learn more at:
