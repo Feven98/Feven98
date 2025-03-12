@@ -6,158 +6,47 @@ I am a software engineer with a BS in electrical and electronics technology, pur
 
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
->
-    <img
-        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"
-        alt="JavaScript"
-        style="max-width: auto; height: 23px;"
-    />
-</a>
-<a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://www.mysql.com"
->
-    <img
-        src="https://img.shields.io/badge/MySQL-F7DF1E?style=flat&logo=MySQL&logoColor=black"
-        alt="MySQL"
-        style="height: 23px; max-width: auto;"
-    />
-</a>
-<!-- <a href="https://www.mysql.com" class="mysql-badge" target="_blank" rel="noopener noreferrer">
-    MySQL
-</a> -->
-
-<a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://www.python.org"
->
-    <img
-        src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=python&logoColor=black"
-        alt="Python"
-        style="max-width: auto; height: 23px;"
-    />
-</a>
-
-
- <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://reactjs.org"
->
-    <img
-        src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"
-        alt="React"
-        style="max-width: auto; height: 23px;"
-    />
-</a>
-
-
-
- 
-
-<p>
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://nodejs.org"
->
-    <img
-        src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"
-        alt="Node.js"
-        style="max-width: auto; height: 23px;"
-    />
-</a>
-
-
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://www.djangoproject.com"
->
-    <img
-        src="https://img.shields.io/badge/DJango-F7DF1E?style=flat&logo=django&logoColor=black"
-        alt="Django"
-        style="max-width: auto; height: 23px;"
-    />
-</a>
-
-</p>
-
-<p>
- 
- <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://www.mysql.com"
->
-    <img
-        src="https://img.shields.io/badge/MySQL-F7DF1E?style=flat&logo=MySQL&logoColor=black"
-        alt="MySQL"
-        style="height:20px; max-width: auto; height: 23px;"
-    />
-</a>
-
- <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://www.mongodb.com"
->
-    <img
-        src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"
-        alt="MongoDB"
-        style="height: 23px; max-width: auto;"
-    />
-</a>
-
-
-</p>
+  <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="max-width: auto; height: 23px;"/>
+  </a>
   
-<p>
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/983c3c179ded756667ba6a2411c1a66b0dcd5b8e2a308a379e784caf2fdd477e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c6174266c6f676f3d6865726f6b75"
->
-    <img
-        src="https://camo.githubusercontent.com/983c3c179ded756667ba6a2411c1a66b0dcd5b8e2a308a379e784caf2fdd477e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c6174266c6f676f3d6865726f6b75"
-        alt="Heroku"
-        data-canonical-src="https://img.shields.io/badge/-Heroku-430098?style=flat&amp;logo=heroku"
-        style="max-width: auto; height: 23px;"
-    />
-</a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.mysql.com">
+    <img src="https://img.shields.io/badge/MySQL-F7DF1E?style=flat&logo=MySQL&logoColor=black" alt="MySQL" style="height: 23px; max-width: auto;"/>
+  </a>
 
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://www.netlify.com"
->
-    <img
-        src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"
-        alt="Netlify"
-        style="max-width: auto; height: 23px;"
-    />
-</a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=python&logoColor=black" alt="Python" style="max-width: auto; height: 23px;"/>
+  </a>
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org">
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" style="max-width: auto; height: 23px;"/>
+  </a>
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://nodejs.org">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" style="max-width: auto; height: 23px;"/>
+  </a>
 
+  <a target="_blank" rel="noopener noreferrer" href="https://www.djangoproject.com">
+    <img src="https://img.shields.io/badge/DJango-F7DF1E?style=flat&logo=django&logoColor=black" alt="Django" style="max-width: auto; height: 23px;"/>
+  </a>
 
- <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://github.com"
->
-    <img
-        src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"
-        alt="GitHub"
-        style="max-width: auto; height: 23px;"
-    />
-</a>
-
+  <a target="_blank" rel="noopener noreferrer" href="https://www.mongodb.com">
+    <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" style="height: 23px; max-width: auto;"/>
+  </a>
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/983c3c179ded756667ba6a2411c1a66b0dcd5b8e2a308a379e784caf2fdd477e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c6174266c6f676f3d6865726f6b75">
+    <img src="https://camo.githubusercontent.com/983c3c179ded756667ba6a2411c1a66b0dcd5b8e2a308a379e784caf2fdd477e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c6174266c6f676f3d6865726f6b75" alt="Heroku" style="max-width: auto; height: 23px;"/>
+  </a>
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://www.netlify.com">
+    <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" style="max-width: auto; height: 23px;"/>
+  </a>
+  
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" style="max-width: auto; height: 23px;"/>
+  </a>
 </p>
+
 
 Learn more at:
 
