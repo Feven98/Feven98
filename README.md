@@ -34,9 +34,10 @@ I am a software engineer with a BS in electrical and electronics technology, pur
     <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" style="height: 23px; max-width: auto;"/>
   </a>
   
-  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/983c3c179ded756667ba6a2411c1a66b0dcd5b8e2a308a379e784caf2fdd477e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c6174266c6f676f3d6865726f6b75">
-    <img src="https://camo.githubusercontent.com/983c3c179ded756667ba6a2411c1a66b0dcd5b8e2a308a379e784caf2fdd477e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c6174266c6f676f3d6865726f6b75" alt="Heroku" style="max-width: auto; height: 23px;"/>
-  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.heroku.com">
+    <img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku" alt="Heroku" style="max-width: auto; height: 23px;"/>
+</a>
+
   
   <a target="_blank" rel="noopener noreferrer" href="https://www.netlify.com">
     <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" style="max-width: auto; height: 23px;"/>
