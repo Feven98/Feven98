@@ -27,6 +27,10 @@ I am a software engineer with a BS in electrical and electronics technology, pur
       style="max-width: auto; height: 23px; "
   /></a>
 <p>
+  <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org">
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" style="max-width: auto; height: 23px;" />
+</a>
+
   <a
     target="_blank"
     rel="noopener noreferrer"
