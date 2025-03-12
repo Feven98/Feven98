@@ -16,20 +16,18 @@ I am a software engineer with a BS in electrical and electronics technology, pur
       data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black"
       style="max-width: auto; height: 23px; "
   /></a>
-  <a
+<a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/130ff6c2a2acacb2079da19ee675d2c11128b4f72c7afdb6569f6d16ebe11056/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d707974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465"
-    ><img
-      src="https://camo.githubusercontent.com/130ff6c2a2acacb2079da19ee675d2c11128b4f72c7afdb6569f6d16ebe11056/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d707974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465"
-      alt="Python"
-      data-canonical-src="https://img.shields.io/badge/Python-F7DF1E?style=flat&amp;logo=python&amp;logoColor=black"
-      style="max-width: auto; height: 23px; "
-  /></a>
-<p>
-  <a target="_blank" rel="noopener noreferrer" href="https://reactjs.org">
-    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" style="max-width: auto; height: 23px;" />
+    href="https://www.python.org"
+>
+    <img
+        src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=python&logoColor=black"
+        alt="Python"
+        style="max-width: auto; height: 23px;"
+    />
 </a>
+
 
   <a
     target="_blank"
@@ -41,16 +39,7 @@ I am a software engineer with a BS in electrical and electronics technology, pur
       data-canonical-src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB"
       style="max-width: auto; height: 23px; "
   /></a>
-    <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/a2ef46f4aec1799b4366d5dd9e4cc60c250b9a4a1e0a4cea21bae63660b63a25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465"
-    ><img
-      src="https://camo.githubusercontent.com/a2ef46f4aec1799b4366d5dd9e4cc60c250b9a4a1e0a4cea21bae63660b63a25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465"
-      alt="Next"
-      data-canonical-src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-      style="height: 23px; max-width: auto"
-  /></a>
+
   <a
     target="_blank"
     rel="noopener noreferrer"
@@ -61,16 +50,7 @@ I am a software engineer with a BS in electrical and electronics technology, pur
       data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
       style="height: 23px; max-width: auto"
   /></a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/e9b080a6541e5355827ea91b6a0302cbbc54af4705b0c6b0f1561a0957ced2fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465"
-    ><img
-      src="https://camo.githubusercontent.com/e9b080a6541e5355827ea91b6a0302cbbc54af4705b0c6b0f1561a0957ced2fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465"
-      alt="Tailwind"
-      data-canonical-src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-      style="height: 23px; max-width: auto"
-  /></a>
+
 </p>  
 
 <p>
@@ -97,13 +77,15 @@ I am a software engineer with a BS in electrical and electronics technology, pur
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/b11ad5990163106a47b252acd22ace1f29249b66480864927c6d10f53fa6a1e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3039324532303f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f266c6f676f436f6c6f723d666666666666"
-    ><img
-      src="https://camo.githubusercontent.com/b11ad5990163106a47b252acd22ace1f29249b66480864927c6d10f53fa6a1e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3039324532303f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f266c6f676f436f6c6f723d666666666666"
-      alt="DJango"
-      data-canonical-src="https://img.shields.io/badge/DJango-F7DF1E?style=flat&amp;logo=django&amp;logoColor=black"
-      style="max-width: auto; height: 23px; "
-  /></a>
+    href="https://www.djangoproject.com"
+>
+    <img
+        src="https://img.shields.io/badge/DJango-F7DF1E?style=flat&logo=django&logoColor=black"
+        alt="Django"
+        style="max-width: auto; height: 23px;"
+    />
+</a>
+
 </p>
 
 <p>
@@ -127,16 +109,18 @@ I am a software engineer with a BS in electrical and electronics technology, pur
       data-canonical-src="https://img.shields.io/badge/MySQL-F7DF1E?style=flat&amp;logo=MySQL&amp;logoColor=black"
       style="height:20px; max-width: auto; height: 23px; "
   /></a>
-  <a
+ <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/8525e7e6900fc4c5546b0442f8a2f187b802e9f40d431ac7394d2c1509234ad9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"
-    ><img
-      src="https://camo.githubusercontent.com/8525e7e6900fc4c5546b0442f8a2f187b802e9f40d431ac7394d2c1509234ad9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"
-      alt="MongoDB"
-      data-canonical-src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"
-      style="height:20px; max-width: auto; height: 23px; "
-  /></a>
+    href="https://www.mongodb.com"
+>
+    <img
+        src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"
+        alt="MongoDB"
+        style="height: 23px; max-width: auto;"
+    />
+</a>
+
 </p>
   
 <p>
@@ -153,13 +137,15 @@ I am a software engineer with a BS in electrical and electronics technology, pur
   <a
     target="_blank"
     rel="noopener noreferrer"
-    href="https://camo.githubusercontent.com/25bbdc5be2869278c78bb26e82cc65f29059699fc7b2e41bb7dc0b56828bb054/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e65746c6966792d3030433742373f7374796c653d666c6174266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465"
-    ><img
-      src="https://camo.githubusercontent.com/25bbdc5be2869278c78bb26e82cc65f29059699fc7b2e41bb7dc0b56828bb054/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e65746c6966792d3030433742373f7374796c653d666c6174266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465"
-      alt="Netlify"
-      data-canonical-src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&amp;logo=netlify&amp;logoColor=white"
-      style="max-width: auto; height: 23px; "
-  /></a>
+    href="https://www.netlify.com"
+>
+    <img
+        src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"
+        alt="Netlify"
+        style="max-width: auto; height: 23px;"
+    />
+</a>
+
  <a
     target="_blank"
     rel="noopener noreferrer"
